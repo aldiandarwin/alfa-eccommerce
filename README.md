@@ -4,6 +4,8 @@
 
 Welcome to our E-Commerce project! This project aims to create an online shopping platform similar to Alfamart, where users can conveniently shop for their daily needs, add items to their cart, view the estimated cost, access transaction history, and utilize pagination for an organized shopping experience.
 
+![windows-1.png](https://github.com/aldiandarwin/alfa-eccommerce/assets/70283015/54798dbb-d3cb-439b-a6c3-b1388ae89ccd)
+
 # Features
 
 ## 1. Product Listing
@@ -22,6 +24,8 @@ The shopping cart calculates and displays the estimated cost based on the select
 
 Access a comprehensive transaction history that includes details like order number, product names, quantities, total price, and the amount paid.
 
+![windows-2.png](https://github.com/aldiandarwin/alfa-eccommerce/assets/70283015/4de948ad-c939-4793-b9c1-3b782c939ca3)
+
 ## 5. Pagination
 
 Efficiently navigate through a paginated list of transactions. This feature ensures a user-friendly experience, especially when there are numerous transactions.
@@ -29,9 +33,13 @@ Efficiently navigate through a paginated list of transactions. This feature ensu
 ## Technologies Used
 
 React: A JavaScript library for building user interfaces.
+
 Next.js: A React framework for building server-side rendered applications.
+
 CSS: For styling and layout.
+
 Node.js: A JavaScript runtime for server-side development.
+
 API: Utilizing an API to manage backend functionality.
 
 ## Getting Started
