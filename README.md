@@ -48,16 +48,20 @@ Clone the repository:
 
 ```
 Copy code
-git clone https://github.com/your-username/e-commerce-project.git
+git clone https://github.com/aldiandarwin/alfa-eccommerce.git
+```
+
 cd e-commerce-project
 Install dependencies:
-```
 
 ```
 Copy code
 npm install
+```
+
 Run the development server:
-bash
+
+```
 Copy code
 npm run dev
 ```
